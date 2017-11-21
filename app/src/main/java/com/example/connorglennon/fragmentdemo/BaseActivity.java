@@ -13,6 +13,9 @@ import android.widget.Button;
 import com.example.connorglennon.fragmentdemo.fragments.FirstFragment;
 import com.example.connorglennon.fragmentdemo.fragments.SecondFragment;
 
+/**
+ * Activity that controls the fragments.
+ */
 public class BaseActivity extends AppCompatActivity {
 
     FragmentManager fragmentManager;
